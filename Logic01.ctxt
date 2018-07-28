@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Logic01
+comment1.params=
+comment1.target=void\ somatoria()
+comment2.params=aquilo\ num
+comment2.target=void\ porcentagem(int,\ int)
+comment3.params=num
+comment3.target=java.lang.String\ somatorio(int)
+numComments=4
